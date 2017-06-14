@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9CB01F5A-4CDB-4DA2-85F8-CABA3D1BD2B5}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SlideShowPlayer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SlideShowPlayer\MainForm.cs">
+    <Files>
+      <File FileName="SlideShowPlayer\MainForm.cs" Line="127" Column="48" />
+      <File FileName="SlideShowPlayer\MainForm.Designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

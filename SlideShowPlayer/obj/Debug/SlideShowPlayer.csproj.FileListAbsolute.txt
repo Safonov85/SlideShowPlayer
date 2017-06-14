@@ -1,0 +1,10 @@
+c:\users\mindator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\bin\Debug\SlideShowPlayer.exe.config
+c:\users\mindator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\bin\Debug\SlideShowPlayer.exe
+c:\users\mindator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\bin\Debug\SlideShowPlayer.pdb
+c:\users\mindator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Debug\SlideShowPlayer.csprojResolveAssemblyReference.cache
+c:\users\mindator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Debug\SlideShowPlayer.Properties.Resources.resources
+c:\users\mindator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Debug\SlideShowPlayer.csproj.GenerateResource.Cache
+c:\users\mindator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Debug\SlideShowPlayer.exe
+c:\users\mindator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Debug\SlideShowPlayer.pdb
+c:\users\mindator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Debug\SlideShowPlayer.MainForm.resources
+C:\Users\MinDator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\bin\Debug\Xwt.dll

@@ -1,0 +1,10 @@
+C:\Users\MinDator\Documents\Visual Studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\bin\Release\SlideShowPlayer.exe.config
+C:\Users\MinDator\Documents\Visual Studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\bin\Release\SlideShowPlayer.exe
+C:\Users\MinDator\Documents\Visual Studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\bin\Release\SlideShowPlayer.pdb
+C:\Users\MinDator\Documents\Visual Studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\bin\Release\Xwt.dll
+C:\Users\MinDator\Documents\Visual Studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Release\SlideShowPlayer.MainForm.resources
+C:\Users\MinDator\Documents\Visual Studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Release\SlideShowPlayer.Properties.Resources.resources
+C:\Users\MinDator\Documents\Visual Studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Release\SlideShowPlayer.csproj.GenerateResource.Cache
+C:\Users\MinDator\Documents\Visual Studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Release\SlideShowPlayer.exe
+C:\Users\MinDator\Documents\Visual Studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Release\SlideShowPlayer.pdb
+C:\Users\MinDator\documents\visual studio 2015\Projects\SlideShowPlayer\SlideShowPlayer\obj\Release\SlideShowPlayer.csprojResolveAssemblyReference.cache

@@ -27,6 +27,7 @@ namespace SlideShowPlayer
             InitializeComponent();
         }
 
+        // print the picture in pictureBox
         void CreatePicture(Image image)
         {
             //graphics.Clear(backgroundColor);
@@ -50,6 +51,7 @@ namespace SlideShowPlayer
             SelectFileFromDialog();
         }
 
+        // opens up the file dialog and lets you select the pics
         void SelectFileFromDialog()
         {
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
@@ -105,6 +107,7 @@ namespace SlideShowPlayer
             }
         }
 
+        // play/stop button
         private void PlayStopButton_Click(object sender, EventArgs e)
         {
             if(images.Count != 0)
