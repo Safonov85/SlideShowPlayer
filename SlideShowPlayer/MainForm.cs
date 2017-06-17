@@ -79,6 +79,7 @@ namespace SlideShowPlayer
                     Image imageLoad2 = Image.FromFile(openFileDialog1.FileNames[0]);
                     CreatePicture(imageLoad2);
                     this.Text = "SlideShow Player";
+                    MessageBox.Show("Image sequance loaded");
                 }
                 catch (Exception ex)
                 {
