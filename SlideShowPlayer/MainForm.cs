@@ -70,10 +70,20 @@ namespace SlideShowPlayer
                 try
                 {
                     this.Text = this.Text + " (Loading...)";
+                    images = new List<Image>();
                     images.Clear();
+                    
                     foreach(String file in openFileDialog1.FileNames)
                     {
                         Image imageLoad = Image.FromFile(file);
+                        if (imageLoad.Height > 470 && imageLoad.Width > 715)
+                        {
+                            double adjustSizeX = imageLoad.Height;
+                            double adjustSizeY = imageLoad.Width;
+                            adjustSizeX = imageLoad.Height * 0.2;
+                            adjustSizeY = imageLoad.Width * 0.2;
+                            //imageLoad
+                        }
                         images.Add(imageLoad);
                     }
                     Image imageLoad2 = Image.FromFile(openFileDialog1.FileNames[0]);
